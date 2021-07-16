@@ -1,0 +1,29 @@
+body{
+text-align: center;
+  
+
+#title{
+  font-size: 100px;
+  word-spacing: 50px;
+  font-variant: small-caps;
+  text-align: center;
+}
+ 
+#gift{
+  display: block;
+  margin-left: center;
+  margin-right: center;
+  width: 20px;
+  height: 20px;
+}
+
+
+
+#btn1{
+   display: block;
+margin-top:20px;
+  margin-left: center;
+  margin-right: auto;
+  text-justify: center;
+}
+ 
